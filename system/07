@@ -1,0 +1,7 @@
+#  PID TTY           TIME CMD
+#75907 ttys000    0:00.02 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server /usr/bin/login -fpl btournyo /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+#75913 ttys000    0:00.50 -zsh
+#75909 ttys001    0:00.02 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server /usr/bin/login -fpl btournyo /Applications/iTerm.app/Contents/MacOS/iTerm2 --launch_shell
+#75911 ttys001    0:00.80 -zsh
+#86275 ttys001    0:00.03 vim 07
+ps

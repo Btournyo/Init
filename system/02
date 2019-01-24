@@ -1,0 +1,2 @@
+#scutil --set Computername Newname
+scutil --set e3r6p5.42.fr "myplace"
