@@ -1,0 +1,2 @@
+#df -h mais n'affiche que les partitions actives
+fdisk -l

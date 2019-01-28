@@ -1,0 +1,2 @@
+#permet de lister tous les utilisateurs connectés en SSH ou en console à son serveur Linux. who marche aussi.
+w

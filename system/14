@@ -1,0 +1,2 @@
+ # nohup (commande): detache de la console mais kill ne fonctionne plus
+ tail -f /var/log/syslog &

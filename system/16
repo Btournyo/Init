@@ -1,0 +1,2 @@
+#commande at HH.MM= executer plus tard, crontab = lit et modifie un fichier crontab/ execute une commade regulierement.
+Cron: planifie des taches redulieres. Il tourne en tache de fond du systeme. On utilise la commande  /etc/init.d/cron start|stop|restart

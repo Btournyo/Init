@@ -1,0 +1,2 @@
+#jobs : processus en fond en cours, -p?
+kill -KILL $(jobs -p)
