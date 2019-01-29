@@ -1,1 +1,32 @@
+-rwxr-xr-x 1 root root 2269 avril 22  2017 acpid
+-rwxr-xr-x 1 root root 5336 janv. 23  2017 alsa-utils
+-rwxr-xr-x 1 root root 2014 mai   29  2017 anacron
+-rwxr-xr-x 1 root root 4335 mars  22  2018 apparmor
+-rwxr-xr-x 1 root root 2802 nov.  20  2017 apport
+-rwxr-xr-x 1 root root 2401 sept. 18  2017 avahi-daemon
+-rwxr-xr-x 1 root root 2968 févr.  5  2018 bluetooth
+-rwxr-xr-x 1 root root 1232 avril 19  2018 console-setup.sh
+-rwxr-xr-x 1 root root 3049 nov.  16  2017 cron
+-rwxr-xr-x 1 root root 2804 mars  27  2018 cups
+-rwxr-xr-x 1 root root 2813 nov.  15  2017 dbus
+-rwxr-xr-x 1 root root  985 juil. 16  2018 grub-common
+-rwxr-xr-x 1 root root 3809 févr. 14  2018 hwclock.sh
+-rwxr-xr-x 1 root root 2444 oct.  25  2017 irqbalance
+-rwxr-xr-x 1 root root 3131 mai   19  2017 kerneloops
+-rwxr-xr-x 1 root root 1479 févr. 15  2018 keyboard-setup.sh
+-rwxr-xr-x 1 root root 2044 août  15  2017 kmod
+-rwxr-xr-x 1 root root 3431 mars  22  2018 lightdm
+-rwxr-xr-x 1 root root 1942 mars  26  2018 network-manager
+-rwxr-xr-x 1 root root 1366 janv. 17  2018 plymouth
+-rwxr-xr-x 1 root root  752 janv. 17  2018 plymouth-log
+-rwxr-xr-x 1 root root  612 févr. 26  2018 pppd-dns
+-rwxr-xr-x 1 root root 1191 janv. 17  2018 procps
+-rwxr-xr-x 1 root root 4355 déc.  13  2017 rsync
+-rwxr-xr-x 1 root root 2864 janv. 14  2018 rsyslog
+-rwxr-xr-x 1 root root 5974 avril 20  2018 udev
+-rwxr-xr-x 1 root root 2083 août  15  2017 ufw
+-rwxr-xr-x 1 root root 1306 mai   16  2018 uuidd
+-rwxr-xr-x 1 root root  485 avril  2  2015 whoopsie
+-rwxr-xr-x 1 root root 2757 févr. 23  2016 x11-common
 
+on nomme ces 
